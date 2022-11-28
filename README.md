@@ -1,5 +1,5 @@
 ﻿# controle de alunos
-  1. intalando banco de dados :
+  1. instalando banco de dados :
     **baixe o xampp**:  https://www.apachefriends.org/pt_br/download.html
     **baixe o Mysql**: https://www.mysql.com/products/workbench/
    2. XAMPP
